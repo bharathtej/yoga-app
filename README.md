@@ -3,10 +3,10 @@
 
 ### Project Summary
 	
-**1.1 Project Overview**
-The purpose of the app is to encourage people to do yoga, Yoga talks from Amma, Yoga events and instructions for every asana with inputs from Amrita yoga site.
+**1.1 Project Overview:**
+* The purpose of the app is to encourage people to do yoga, Yoga talks from Amma, Yoga events and instructions for every asana with inputs from Amrita yoga site.
 
-**1.2 Project Scope**
+**1.2 Project Scope:**
 	This app will help people to practice Yoga anywhere. Learn newsfeed and information related to Yoga at the Ashram.
 * Newsfeed and information about Yoga at the Ashram.
 * Demo videos and voice overs to help in practicing yoga.
