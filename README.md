@@ -13,7 +13,7 @@
 * Registering and keeping track on yoga events at Ashrams.
 * Time calculation of the user yoga sessions.
 
-**1.3 Development Process**
+**1.3 Development Process:**
 * We follow the agile methodology of software development. The product will be developed in two sprints.
 
 ***Sprint 1 -***
